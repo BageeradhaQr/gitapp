@@ -1,0 +1,10 @@
+JSF Life Cycle
+--> Component based framework
+---> MVC / Spring\
+6 phases
+1. Restore View
+2. Apply Request Values
+3. Process Validation
+4. Update Model Values
+5. Invoke Application
+6. Rendered Response.
