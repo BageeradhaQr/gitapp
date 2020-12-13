@@ -1,4 +1,4 @@
-JSF Life Cycle
+JSF Life Cycle Starts
 --> Component based framework
 ---> MVC / Spring\
 6 phases
@@ -8,3 +8,4 @@ JSF Life Cycle
 4. Update Model Values
 5. Invoke Application
 6. Rendered Response.
+JSF Life Cycle Ends
